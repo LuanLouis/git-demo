@@ -16,3 +16,7 @@ fun b(){
 fun c(){
 
 }
+
+fun bb(){
+
+}
