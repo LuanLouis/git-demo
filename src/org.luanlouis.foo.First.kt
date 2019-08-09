@@ -16,3 +16,7 @@ fun b(){
 fun ba(){
 
 }
+
+fun ba1(){
+
+}
