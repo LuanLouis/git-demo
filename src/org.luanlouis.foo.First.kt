@@ -20,3 +20,7 @@ fun ba(){
 fun ba1(){
 
 }
+
+fun ba2(){
+
+}
